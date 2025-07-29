@@ -9,3 +9,9 @@ Key Features:
 -Trained on a robust dataset of over 10,000 samples, capturing more than 10 distinct micro-expressions.
 -Achieves exceptional accuracy in recognizing subtle facial movements.
 -Features an intuitive, user-friendly interface for seamless video upload and analysis.
+
+Installation :
+1. Clone the Repo
+2. Make sure you have python 3.11 and pip installed in your machine
+3. Install the required dependencies using pip
+4. Run the app.py 
